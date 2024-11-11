@@ -1,4 +1,7 @@
 python3 hand_dog_cv.py enp7s0  笔记本 上 跑这个,这个是带可视化界面的，注意安装依赖 pip install mediapipe 
-python3 hand_dog_nonscreen.py eth0  这个是 先ssh进到拓展wu，然后执行这个
+python3 hand_dog_nonscreen.py eth0  这个是 先ssh进到拓展坞，然后执行这个
 请注意  文件都放在unitree_sdk2_python/example 下面执行
  
+python3 hand_dog_cv.py Run this on enp7s0 notebook. This one has a visual interface. Pay attention to the installation dependencies pip install mediapipe
+python3 hand_dog_nonscreen.py eth0 This is to ssh into the expansion dock first, and then execute this
+Please note that the files are placed under unitree_sdk2_python/example for execution.
