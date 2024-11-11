@@ -1,0 +1,4 @@
+python3 hand_dog_cv.py enp7s0  笔记本 上 跑这个,这个是带可视化界面的，注意安装依赖 pip install mediapipe 
+python3 hand_dog_nonscreen.py eth0  这个是 先ssh进到拓展wu，然后执行这个
+请注意  文件都放在unitree_sdk2_python/example 下面执行
+ 
