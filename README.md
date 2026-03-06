@@ -261,11 +261,10 @@ ifconfig
 
 MIT License
 
-### 👤 作者
+### 👤 Author
 
-**李恩泽 (Enze Li)**
+**Enze**
 - GitHub: [@lez666](https://github.com/lez666)
-- Email: support_lez@unittree.com
 
 ---
 
